@@ -1,0 +1,7 @@
+# todo-wait: nothing
+*.bin
+*.h5
+*.pt
+*.pickle
+logs
+.idea

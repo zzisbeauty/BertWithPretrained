@@ -1,4 +1,7 @@
 # todo-wait: nothing
+# 预训练任务说明（上）：https://zhuanlan.zhihu.com/p/496335235
+# 与训练任务说明（下）：https://www.ylkz.life/deeplearning/p10334623/
+# 关于BERT预训练任务的实现：https://zhuanlan.zhihu.com/p/431796984
 *.bin
 *.h5
 *.pt
